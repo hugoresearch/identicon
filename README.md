@@ -13,7 +13,7 @@ Used erlang/elixir language to create identicon library
 
 ## Usage 
 
-Navigate into lib folder and starting iex
+Clone project, navigate into project folder and start iex 
 ```
 iex -S mix
 
