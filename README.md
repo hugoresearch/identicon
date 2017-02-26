@@ -23,4 +23,4 @@ Then just call the main function of Identicon module
 ```
 Identicon.main("identicon")
 ```
-Main function generates and png file with identicon. 
+Main function generates a png file with identicon. 
